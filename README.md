@@ -6,7 +6,7 @@ culturelle.
 
 ### Crédits
 
-Créé avec [Jekyll](jekyllrb.com), [GitHub](github.com), and
+Créé avec [Jekyll](https://jekyllrb.com), [GitHub](https://github.com), and
 [Vim](https://vim.sourceforge.io).
 
 
