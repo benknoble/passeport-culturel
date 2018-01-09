@@ -1,0 +1,21 @@
+# site
+title: "Passeport culturel à Montpellier"
+email: "david3@live.unc.edu"
+description: >-
+  Je décris ce que j'ai fait ou regardé à Montpellier !
+github_username: benknoble
+theme: minima
+
+# jekyll serve
+destination: _site
+
+# github defaults
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+# theme: jekyll-theme-primer
+gfm_quirks: paragraph_end
