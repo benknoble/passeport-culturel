@@ -1,7 +1,21 @@
 #! /usr/bin/env bash
 
-serve() {
-    bundle exec jekyll serve --watch
+set -euo pipefail
+site_source="$( cd "$( dirname "${BASH_SOURCE[0]}")" && pwd )"
+
+env_type() {
+  local env_type
+  case "$1" in
+    dev*)   env_type="dev"  ;;
+    prod*)  env_type="prod" ;;
+    *)      env_type=""     ;;
+  esac
+  echo "${env_type}"
 }
 
-serve
+serve() {
+    JEKYLL_ENV="$(env_type "$1")" bundle exec jekyll serve --watch
+}
+
+env_arg="${1:-development}"
+serve "${env_arg}"
