@@ -7,12 +7,18 @@ message() {
   echo "$@" >&2
 }
 
+usage() {
+  message "$0 [ENV_TYPE]
+  Serve the site with JEKYLL_ENV set to ENV_TYPE (default: development)"
+}
+
 die() {
   exit 1
 }
 
 bad_env() {
   message "Bad JEKYLL_ENV type $1 !"
+  usage
   die
 }
 
@@ -20,7 +26,7 @@ env_type() {
   local env_type
   case "$1" in
     dev*)   env_type="development"  ;;
-    prod*)  env_type="production"   ;;
+    pro*)   env_type="production"   ;;
     *)      bad_env "$1"            ;;
   esac
   echo "${env_type}"
