@@ -1,0 +1,7 @@
+#! /usr/bin/env bash
+
+serve() {
+    bundle exec jekyll serve --watch
+}
+
+serve
