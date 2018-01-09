@@ -9,4 +9,7 @@ culturelle.
 Créé avec [Jekyll](jekyllrb.com), [GitHub](github.com), and
 [Vim](https://vim.sourceforge.io).
 
-[comment]: # vim: spell spelllang=fr
+
+<!---
+vim: spell spelllang=fr
+-->
