@@ -1,0 +1,14 @@
+---
+---
+
+/* TEAM */
+Primary Contact: Ben Knoble
+Site: {{ site.url }}/about/
+
+/* THANKS */
+Design Contributors: {{ site.url }}/disclosure/
+
+/* SITE */
+Last Updated: {{ site.time | date:"%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Software: Vim, Safari, Jekyll, Git, Sass

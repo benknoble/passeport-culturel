@@ -1,13 +1,66 @@
 # site
 title: "Passeport culturel à Montpellier"
-email: "david3@live.unc.edu"
-description: >-
-  Je décris ce que j'ai fait ou regardé à Montpellier !
-github_username: benknoble
-theme: minima
+
+encoding: utf-8
+safe: false
+future: true
+
+## permalinks
+permalink: /blog/:year/:month/:day/:title/
+relative_permalinks: false
+
+## urls
+url: https://benknoble.github.io/passeport-culturel
+baseurl: ""
+urlimg: https://benknoble.github.io/passeport-culturel/images/
+
+## pagination
+paginate: 5
+paginate_path: "/blog/page:num"
+
+## backgrounds
+default_bg: sitebg.jpg
+default_logo: sitelogo.png
+
+## about/contact
+author:
+  name: Ben Knoble
+  url: https://www.gitshowcase.com/benknoble
+  avatar: benknoble.png
+  email: david3@live.unc.edu
+
+## owner/author
+owner:
+  name: Ben Knoble
+  avatar: benknoble.png
+  email: david3@live.unc.edu
+  description: Je d&#233;cris ce que j&#39;ai fait ou regard&#233; &#224; Montpellier !
+  github: benknoble
+  stackexchange: david-ben-knoble
+  linkedin: https://linkedin.com/in/ben-knoble
+
+## sidebar links
+links:
+  - title: <i class="iconside iconm-home"></i> Accueil
+    url: /
+  - title: <i class="iconside iconm-user"></i> Info
+    url: /about/
+  - title: <i class="iconside iconm-quill"></i> Blog
+    url: /blog/
+  - title: <i class="fa fa-tags"></i> Mots Clés
+    url: /tags/
+  - title: <i class="fa fa-archive"></i> Archive
+    url: /archive/
+  - title: <i class="iconside iconm-envelop"></i> Contact
+    url: /contact/
+  - title: <i class="iconside iconm-feed2"></i> Feed
+    url: /feed.xml
+
 
 # jekyll serve
 destination: _site
+include:
+  - .htaccess
 exclude:
   - serve
   - README.md
