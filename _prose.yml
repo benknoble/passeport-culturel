@@ -1,7 +1,7 @@
 prose:
   rooturl: ''
-  siteurl: 'http://example.com/'
-  relativeLinks: 'http://example.com/links.jsonp'
+  siteurl: 'https://benknoble.github.io/passeport-culturel'
+  relativeLinks: 'https://benknoble.github.io/passeport-culturel/links.jsonp'
   media: 'images/media'
   ignore:
     - /_data
@@ -13,8 +13,6 @@ prose:
     - Gemfile
     - Gemfile.lock
     - .gitignore
-    - .editorconfig
-    - .gitattributes
     - favicon.ico
     - favicon.png
   metadata:
@@ -63,7 +61,7 @@ prose:
             - name: "news"
               value: news
             - name: "base"
-              value: base              
+              value: base
           alterable: true
       - name: "tags"
         field:

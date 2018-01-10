@@ -2,9 +2,8 @@
 ---
 
 /* TEAM */
-Primary Contact: foo
+Primary Contact: Ben Knoble
 Site: {{ site.url }}/about/
-Twitter: https://twitter.com/{{ site.owner.twitter }}
 
 /* THANKS */
 Design Contributors: {{ site.url }}/disclosure/
@@ -12,4 +11,4 @@ Design Contributors: {{ site.url }}/disclosure/
 /* SITE */
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}
 Standards: HTML5, CSS3
-Software: Sublime Text, Chrome, Jekyll, Git, Sass
+Software: Vim, Safari, Jekyll, Git, Sass

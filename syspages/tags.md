@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "Tag Cloud"
+title: "Mots Clés"
 permalink: "/tags/"
-description: "Browse website by tag based index"
+description: "Chercher par mot clé"
 comments: false
 sitemap: false
 category: base
 ---
 
 {:.text-center}
-## <i class="fa fa-paperclip" title="Featured"></i> <a href="{{ site.url }}/featured">Featured Posts</a>
+## <i class="fa fa-paperclip" title="Featured"></i> <a href="{{ site.url }}/featured">Ecrits Importants</a>
 
 <hr class="style17" style="margin:1.0rem 0;">
 
