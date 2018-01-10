@@ -7,7 +7,7 @@ category: base
 ---
 
 <section id="archive">
-  <h3>This year's posts</h3>
+  <h3>Ecrits de cette année</h3>
   {%for post in site.posts %}
     {% unless post.next %}
       <ul class="post-list">
@@ -22,5 +22,4 @@ category: base
     {% endunless %}
       <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></span></a></li>
   {% endfor %}
-  </ul>
 </section>

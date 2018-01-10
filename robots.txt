@@ -55,4 +55,4 @@ Disallow: /files/
 User-agent: *
 Disallow: /
 
-Sitemap: https://benknoble.github.io/passeport-culturel/sitemap.xml
+/* Sitemap: https://benknoble.github.io/passeport-culturel/sitemap.xml */

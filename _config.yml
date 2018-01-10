@@ -11,7 +11,7 @@ relative_permalinks: false
 
 ## urls
 url: https://benknoble.github.io/passeport-culturel
-baseurl: "/passeport-culturel"
+baseurl: ""
 urlimg: https://benknoble.github.io/passeport-culturel/images/
 
 ## pagination

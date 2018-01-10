@@ -3,7 +3,6 @@ layout: page
 title: Important
 description: "Ecrits importants"
 permalink: /featured/
-sitemap: false
 noindex: true
 category: base
 ---

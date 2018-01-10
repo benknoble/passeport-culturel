@@ -109,11 +109,6 @@ prose:
           element: "checkbox"
           label: "hide info box while printing?"
           value: false
-      - name: "sitemap"
-        field:
-          element: "checkbox"
-          label: "Keep in sitemap?"
-          value: true   
       - name: "summaryfeed"
         field:
           element: "checkbox"
@@ -204,8 +199,3 @@ prose:
           element: "checkbox"
           label: "hide info box while printing?"
           value: false          
-      - name: "sitemap"
-        field:
-          element: "checkbox"
-          label: "Keep in sitemap?"
-          value: true

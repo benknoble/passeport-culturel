@@ -3,7 +3,6 @@ layout: default_minimal
 title: "Chercher"
 description: "Chercher"
 permalink: /search/
-sitemap: false
 noindex: true
 nofollow: true
 category: base
