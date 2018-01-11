@@ -14,3 +14,4 @@ tags:
 ---
 
 | <i class="fa fa-paper-plane">  | david3@live.unc.edu |
+| <i class="fa fa-phone">  | +33 (0) 7 68 71 98 44 |
