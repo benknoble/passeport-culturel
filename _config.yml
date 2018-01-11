@@ -73,6 +73,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
 
+repository: benknoble/passeport-culturel
+
 # github defaults
 github: [metadata]
 encoding: UTF-8
