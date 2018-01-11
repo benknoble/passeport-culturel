@@ -21,6 +21,13 @@ noindex: false
 </span>
 </div>
 
+<blockquote class="style1">
+Vivez à la française !
+</blockquote>
+
+* TOC
+{:toc}
+
 # Passeport culturel, c'est quoi ?
 
 En passant un semestre à Montpellier, je suit des cours à *Accent Français*&mdash;pour
