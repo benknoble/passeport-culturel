@@ -13,5 +13,6 @@ tags:
   - address
 ---
 
-| <i class="fa fa-paper-plane">  | david3@live.unc.edu |
-| <i class="fa fa-phone">  | +33 (0) 7 68 71 98 44 |
+| <i class="fa fa-paper-plane">  | {{ site.owner.email }} |
+| <i class="fa fa-phone">  | {{ site.owner.phone }} |
+| <i class="fa fa-linkedin">  | {{ site.owner.linkedin }} |
