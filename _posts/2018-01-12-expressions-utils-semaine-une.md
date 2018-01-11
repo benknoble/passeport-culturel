@@ -15,6 +15,9 @@ hide_printmsg: false
 summaryfeed: false
 ---
 
+Un petit peu de tout cette semaine, il y a des expressions d'amour, des
+grecques, de langue soutenue. Comment peuvent-elles être utiles ?
+
 Car c'est la première semaine, j'expliquerai qu'est-ce que c'est, 5 expressions
 utiles. Chaque semaine, je cherche 5 expressions (c'est-à-dire, phrase, mots,
 n'importe quoi) qui sont utiles dans la quotidienne. Elles peuvent être de
