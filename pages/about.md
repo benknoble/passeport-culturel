@@ -34,6 +34,11 @@ sâche que c'est « complet ».
 Aussi vous voyez des articles qui s'appellent « 5 expressions utils », où il en
 y aura 5 pour apprendre et utiliser dans la quotidienne.
 
+## Source du site
+
+Si vous vous interessez, vous pouvez étudier comment j'ai construit le site ici:
+[passeport-culturel](https://github.com/benknoble/passeport-culturel)
+
 # Moi, c'est qui ?
 
 Je suis plus qu'une seule identité, mais pour ce semestre (printemps 2018) je

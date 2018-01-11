@@ -4,9 +4,6 @@ permalink: index.html
 title: Passeport culturel
 description: "Qu'est-ce qu'il y a ?"
 ---
-
-## [passeport-culturel](https://github.com/benknoble/passeport-culturel)
-
 <div class="posts">
   {% for post in site.categories.featured limit:2 %}
   <div class="post">
