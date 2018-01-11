@@ -15,6 +15,11 @@ hide_printmsg: false
 summaryfeed: false
 ---
 
+Une visite au musée Fabre, complètement gratuite grâce au premier dimanche de
+janvier.
+
+* TOC
+{:toc}
 
 <!---
 vim: nospell
