@@ -60,6 +60,7 @@ links:
 # plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 # jekyll serve
 destination: _site
