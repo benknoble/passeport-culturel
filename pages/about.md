@@ -38,7 +38,7 @@ comportement, n'importe quoi.
 Je mets combien de mots sont y compris au-dessous de l'article pour que la prof
 sâche que c'est « complet ».
 
-Aussi vous voyez des articles qui s'appellent « 5 expressions utils », où il en
+Aussi vous voyez des articles qui s'appellent « 5 expressions utiles », où il en
 y aura 5 pour apprendre et utiliser dans la quotidienne.
 
 ## Source du site
