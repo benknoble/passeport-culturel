@@ -57,6 +57,9 @@ links:
   - title: <i class="iconside iconm-feed2"></i> Feed
     url: /feed.xml
 
+# plugins
+plugins:
+  - jekyll-sitemap
 
 # jekyll serve
 destination: _site
