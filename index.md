@@ -4,14 +4,15 @@ permalink: index.html
 title: Passeport culturel
 description: "Qu'est-ce qu'il y a ?"
 ---
+<h1><i>Importants</i></h1>
 <div class="posts">
   {% for post in site.categories.featured limit:2 %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ site.url }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h3>
 
   {% if post.modified.size > 2 %}<span class="post-date indexpg" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Mise à jour"> {{ post.modified | date_to_string }}</i> <a href="{{ site.url }}/featured" title="Ecrits importants"><i class="fa fa-paperclip" title="Important" class="social-icons"></i></a></span>{% else %}<span class="post-date indexpg" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date publié"> {{ post.date | date_to_string }}</i> <a href="{{ site.url }}/featured" title="Ecrits importants"><i class="fa fa-paperclip" title="Important" class="social-icons"></i></a></span>{% endif %}
 
@@ -21,15 +22,16 @@ description: "Qu'est-ce qu'il y a ?"
   {% endfor %}
 </div>
 
+<h1><i>Récents</i></h1>
 <div class="posts">
   {% for post in site.posts limit:2 %}
   {% unless post.category contains "featured" %}
   <div class="post">
-    <h1 class="post-title">
+    <h3 class="post-title">
       <a href="{{ site.url }}{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h3>
 
   {% if post.modified.size > 2 %}<span class="post-date indexpg" itemprop="dateModified" content="{{ post.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ post.modified | date_to_string }}</i></span>{% else %}<span class="post-date indexpg" itemprop="datePublished" content="{{ post.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date publié"> {{ post.date | date_to_string }}</i></span>{% endif %}
 
