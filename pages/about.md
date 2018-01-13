@@ -4,7 +4,7 @@ title: Info
 permalink: /about/
 show_meta: true
 # imagefeature path is relative to images/ directory.
-# imagefeature: foo.png
+imagefeature: benknoble.png
 published: true
 description: "Info à propos de mon passeport culturel"
 category: views
