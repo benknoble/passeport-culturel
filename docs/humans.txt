@@ -1,0 +1,11 @@
+/* TEAM */
+Primary Contact: Ben Knoble
+Site: https://benknoble.github.io/passeport-culturel/about/
+
+/* THANKS */
+Design Contributors: https://benknoble.github.io/passeport-culturel/disclosure/
+
+/* SITE */
+Last Updated: 2018/01/17
+Standards: HTML5, CSS3
+Software: Vim, Safari, Jekyll, Git, Sass
