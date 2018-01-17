@@ -24,4 +24,5 @@ Voilà, cette semaine :
 | *Etre royal* | dit de qqn courageux, qui aide d'autres |
 | *Tomber dans les pommes* | s'évanouir; dormir complètement (après avoir trop bu, par exemple) |
 | *Peu import* | cela n'est plus important; ne t'en inquiète pas |
-| C'est le bazar | C'est chaotique, comme un bazar ! |
+| *C'est le bazar* | c'est chaotique, comme un bazar ! |
+| *Tirailler* | être pris entre deux choses |
