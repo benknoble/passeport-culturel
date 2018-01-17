@@ -3,7 +3,6 @@ layout: post
 title: Semaine 1ère--5 expressions utiles
 tags: [ "expressions utiles", apprendre ]
 category:
-- featured
 show_meta: true
 show_comments: true
 mathjax: true
