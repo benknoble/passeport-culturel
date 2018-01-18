@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Les Heures Sombres, un lutte jusqu'à la fin
-tags: [ film, histoire, critique ]
+tags: [ film, histoire, critique, politique ]
 show_meta: true
 show_comments: true
 mathjax: true
