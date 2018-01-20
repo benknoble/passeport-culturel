@@ -19,5 +19,5 @@ Intro
 {:toc}
 
 <!---
-vim: nospell
+vim: spell spelllang=fr
 -->
