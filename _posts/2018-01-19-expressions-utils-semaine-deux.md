@@ -26,3 +26,7 @@ Voilà, cette semaine :
 | *Peu import* | cela n'est plus important; ne t'en inquiète pas |
 | *C'est le bazar* | c'est chaotique, comme un bazar ! |
 | *Tirailler* | être pris entre deux choses |
+
+<!---
+vim: spell spelllang=fr
+-->

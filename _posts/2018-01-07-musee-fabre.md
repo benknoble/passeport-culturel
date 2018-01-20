@@ -55,5 +55,5 @@ nous avons quitté le musée pour déjeuner.
 [^2]: [wiki de Minerve](https://fr.wikipedia.org/wiki/Minerve_(mythologie))
 
 <!---
-vim: nospell
+vim: spell spelllang=fr
 -->

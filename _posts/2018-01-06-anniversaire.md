@@ -22,3 +22,7 @@ Mise à jour : le site-web veut vous dire je ne sais quoi--
 > fêter... ?`
 
 ...je dois lui dire *non*, mais comment ?
+
+<!---
+vim: spell spelllang=fr
+-->
