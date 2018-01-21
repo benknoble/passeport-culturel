@@ -25,7 +25,7 @@ qu'elles soient utiles et que je puisse les expliquer.
 
 Voilà, cette semaine :
 
-| Expression | Definition |
+| Expression | Définition |
 | :--------: | :--------- |
 | *coupé du monde* | totalement isolé |
 | *je suis rassasié* | j'en ai assez, j'ai bien mangé, j'ai fini |

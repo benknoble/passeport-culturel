@@ -19,7 +19,7 @@ Là-bas, une variété des expressions.
 
 Voilà, cette semaine :
 
-| Expression | Definition |
+| Expression | Définition |
 | :--------: | :--------- |
 | *Etre royal* | dit de qqn courageux, qui aide d'autres |
 | *Tomber dans les pommes* | s'évanouir; dormir complètement (après avoir trop bu, par exemple) |
