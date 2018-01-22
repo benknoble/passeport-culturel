@@ -21,6 +21,10 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
+| *peler les plombes* | être fou |
+| *pèler le feu* | "to be on fire" |
+| *la puce* | sur des cartes banquières, qui protège l'identité |
+| *être un homme / une femme en Or* | être très gentil(le), génial(le), super-bien |
 
 <!---
 vim: spell spelllang=fr
