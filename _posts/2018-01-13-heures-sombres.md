@@ -50,6 +50,9 @@ cherchait encore la paix avec l'Italie et l'Allemagne.
 Il a dit de la guerre qu'il s'agît d'un lutte jusqu'à la fin, la morte si
 nécessaire. Qu'a fait Churchill, c'est pareil.
 
+
+# Références
+
 [^1]: Ecrit de ma mémoire; l'[original](https://www.youtube.com/watch?v=14IVzLjoFBQ) (en anglais)
 
 <!---
