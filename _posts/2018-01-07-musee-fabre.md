@@ -51,6 +51,8 @@ de *« plus intéressante »*, alors on a trouvé les impressionnistes et l'art 
 abstraite qu'elle n'est parfois qu'un carré noir. Etant fatigués après tout ça,
 nous avons quitté le musée pour déjeuner.
 
+# Références
+
 [^1]: [plan du musée](http://museefabre.montpellier3m.fr/Media/Files/INFORMATIONS_PRATIQUES/PLAN_DU_MUSEE_FABRE/Plans-Musee_Fabre)
 [^2]: [wiki de Minerve](https://fr.wikipedia.org/wiki/Minerve_(mythologie))
 
