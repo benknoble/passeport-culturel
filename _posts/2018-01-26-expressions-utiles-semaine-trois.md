@@ -25,6 +25,7 @@ Voilà, cette semaine :
 | *pèler le feu* | "to be on fire" |
 | *la puce* | sur des cartes banquières, qui protège l'identité |
 | *être un homme / une femme en Or* | être très gentil(le), génial(le), super-bien |
+| *l'engoument est retombé* | qqch à la mode ne l'est plus |
 
 <!---
 vim: spell spelllang=fr
