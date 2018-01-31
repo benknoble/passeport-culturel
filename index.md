@@ -4,7 +4,7 @@ permalink: index.html
 title: Passeport culturel
 description: "Qu'est-ce qu'il y a ?"
 ---
-<h1><i>Importants</i></h1>
+<h1><a href="{{ site.url }}/featured/"><i>Importants</i></a></h1>
 <div class="posts">
   {% for post in site.categories.featured limit:2 %}
   <div class="post">
@@ -22,7 +22,7 @@ description: "Qu'est-ce qu'il y a ?"
   {% endfor %}
 </div>
 
-<h1><i>Récents</i></h1>
+<h1><a href="{{ site.url }}/blog/"><i>Récents</i></a></h1>
 <div class="posts">
   {% for post in site.posts limit:3 %}
   {% unless post.category contains "featured" %}
