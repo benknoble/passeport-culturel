@@ -21,7 +21,9 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
-| ** | |
+| *épouvanter* | faire peur horrible |
+| *rendre service à qqn* | "to do someone a favor" |
+| *une mèche* | petite touffe de cheveux |
 
 <!---
 vim: spell spelllang=fr
