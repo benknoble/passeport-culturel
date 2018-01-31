@@ -19,11 +19,11 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
-| *Etre royal* | dit de qqn courageux, qui aide d'autres |
-| *Tomber dans les pommes* | s'évanouir; dormir complètement (après avoir trop bu, par exemple) |
-| *Peu import* | cela n'est plus important; ne t'en inquiète pas |
-| *C'est le bazar* | c'est chaotique, comme un bazar ! |
-| *Tirailler* | être pris entre deux choses |
+| *être royal* | dit de qqn courageux, qui aide d'autres |
+| *tomber dans les pommes* | s'évanouir; dormir complètement (après avoir trop bu, par exemple) |
+| *peu import* | cela n'est plus important; ne t'en inquiète pas |
+| *c'est le bazar* | c'est chaotique, comme un bazar ! |
+| *tirailler* | être pris entre deux choses |
 
 <!---
 vim: spell spelllang=fr

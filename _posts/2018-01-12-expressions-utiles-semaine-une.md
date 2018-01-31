@@ -31,7 +31,7 @@ Voilà, cette semaine :
 | *je suis rassasié* | j'en ai assez, j'ai bien mangé, j'ai fini |
 | *tomber dans les bras de Morphée* | dormir très bien |
 | *Le Monde lui appartient* | il travaille bien, réussit aux examens, est intelligent, &c. |
-| *Mon chou, mon choupinet, ma choupinette* | Venant d'*un chou à la crème* pour exprimer l'amour |
+| *mon chou, mon choupinet, ma choupinette* | Venant d'*un chou à la crème* pour exprimer l'amour |
 
 <!---
 vim: spell spelllang=fr
