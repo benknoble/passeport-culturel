@@ -24,7 +24,7 @@ description: "Qu'est-ce qu'il y a ?"
 
 <h1><i>Récents</i></h1>
 <div class="posts">
-  {% for post in site.posts limit:2 %}
+  {% for post in site.posts limit:3 %}
   {% unless post.category contains "featured" %}
   <div class="post">
     <h3 class="post-title">
