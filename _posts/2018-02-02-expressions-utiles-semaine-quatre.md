@@ -24,6 +24,8 @@ Voilà, cette semaine :
 | *épouvanter* | faire peur horrible |
 | *rendre service à qqn* | "to do someone a favor" |
 | *une mèche* | petite touffe de cheveux |
+| *échappatoire* | qqch qui vous permet de vous évader |
+| *ronronner* | que font les chats heureux |
 
 <!---
 vim: spell spelllang=fr
