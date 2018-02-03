@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semaine 2ème--5 expressions utiles
+title: Semaine 4ème--5 expressions utiles
 tags: [ "expressions utiles", apprendre ]
 category:
 - featured
@@ -21,11 +21,11 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
-| *être royal* | dit de qqn courageux, qui aide d'autres |
-| *tomber dans les pommes* | s'évanouir; dormir complètement (après avoir trop bu, par exemple) |
-| *peu import* | cela n'est plus important; ne t'en inquiète pas |
-| *c'est le bazar* | c'est chaotique, comme un bazar ! |
-| *tirailler* | être pris entre deux choses |
+| *épouvanter* | faire peur horrible |
+| *rendre service à qqn* | "to do someone a favor" |
+| *une mèche* | petite touffe de cheveux |
+| *échappatoire* | qqch qui vous permet de vous évader |
+| *ronronner* | que font les chats heureux |
 
 <!---
 vim: spell spelllang=fr
