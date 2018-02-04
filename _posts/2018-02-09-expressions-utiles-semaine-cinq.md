@@ -23,6 +23,8 @@ Voilà, cette semaine :
 | :--------: | :--------- |
 | *chasse aux trésors* | "scavenger hunt" |
 | *meuf* | (argot) une fille |
+| *boîte* | un bâtiment, un magasin |
+| *cerveau* | syn. pour tête, par rapport aux pensées |
 
 <!---
 vim: spell spelllang=fr
