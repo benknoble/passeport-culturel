@@ -25,6 +25,7 @@ Voilà, cette semaine :
 | *meuf* | (argot) une fille |
 | *boîte* | un bâtiment, un magasin |
 | *cerveau* | syn. pour tête, par rapport aux pensées |
+| *foutre le camp* | syn. (peut-être vulg.?) s'en aller |
 
 <!---
 vim: spell spelllang=fr
