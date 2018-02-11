@@ -22,6 +22,9 @@ Voilà, cette semaine :
 | Expression | Définition |
 | :--------: | :--------- |
 | *comme un coq en pates* | être bien, manger bien, avoir une belle maison, &c.--être heureux |
+| *vider son sac* | "clear the air" |
+| *un pote* | "buddy, pal" |
+| *un poumon* | "lung" |
 
 <!---
 vim: spell spelllang=fr
