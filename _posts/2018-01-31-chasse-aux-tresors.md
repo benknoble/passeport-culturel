@@ -13,11 +13,11 @@ hide_printmsg: false
 summaryfeed: false
 ---
 
-Résumé de l’Ecusson Mardi, le 31 janvier. La fin d’un premier mois à
-Montpellier, et le début d’un grand aventure. Plusieurs équipes se mettent à
-découvrir le centre ville, l’Ecusson, dans une chasse aux trésors. Et la mienne,
-elle a un petit avantage : nous avons déjà suivi un tour guidé de Montpellier.
-C’est donc naturel à commencer avec le familier--l’Arc de Triomphe.
+Mardi, le 31 janvier. La fin d’un premier mois à Montpellier, et le début d’un
+grand aventure. Plusieurs équipes se mettent à découvrir le centre ville,
+l’Ecusson, dans une chasse aux trésors. Et la mienne, elle a un petit avantage :
+nous avons déjà suivi un tour guidé de Montpellier.  C’est donc naturel à
+commencer avec le familier--l’Arc de Triomphe.
 
 * TOC
 {:toc}
