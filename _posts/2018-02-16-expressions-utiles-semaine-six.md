@@ -25,6 +25,7 @@ Voilà, cette semaine :
 | *vider son sac* | "clear the air" |
 | *un pote* | "buddy, pal" |
 | *un poumon* | "lung" |
+| *être en nage* | être couvert de sueur |
 
 <!---
 vim: spell spelllang=fr
