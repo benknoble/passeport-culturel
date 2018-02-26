@@ -22,6 +22,7 @@ Voilà, cette semaine :
 | Expression | Définition |
 | :--------: | :--------- |
 | *une fourgonnette* | "soccer mom van" |
+| *une corvée* | ce qu'on appelle des travaux pénibles |
 
 <!---
 vim: spell spelllang=fr
