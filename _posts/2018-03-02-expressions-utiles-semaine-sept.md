@@ -21,7 +21,7 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
-| ** | a |
+| *une fourgonnette* | "soccer mom van" |
 
 <!---
 vim: spell spelllang=fr
