@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Les cloches, elles sonne
+title: Les cloches, elles sonnent
 tags: [ découvrir, marcher, montagnes, "musées et expos", remparts ]
 show_meta: true
 show_comments: true
