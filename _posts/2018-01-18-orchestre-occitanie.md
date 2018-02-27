@@ -1,7 +1,7 @@
 ---
 layout: post
 title: L'orchestre de l'Occitanie
-tags: [ art, music, vignette ]
+tags: [ art, musique, vignette ]
 show_meta: true
 show_comments: true
 mathjax: true
