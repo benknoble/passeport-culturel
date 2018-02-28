@@ -24,7 +24,7 @@ Voilà, cette semaine :
 | *une fourgonnette* | "soccer mom van" |
 | *une corvée* | ce qu'on appelle des travaux pénibles |
 | *avoir l'estomac dans les talons* | avoir beaucoup faim |
-| *une couche* | "layer" |
+| *une couche, une épaisseur* | "layer" |
 
 <!---
 vim: spell spelllang=fr
