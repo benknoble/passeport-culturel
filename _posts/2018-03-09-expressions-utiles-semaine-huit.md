@@ -24,7 +24,7 @@ Voilà, cette semaine :
 | *les noces[^1]* | un mariage; utilisé pour les expressions tels que « un voyage de noces » |
 | *la boue* | "mud" |
 | *le saignement de nez* | "nosebleed" |
-| ** | |
+| *quelle gachîs* | quelle désordre, gaspillage |
 | ** | |
 
 ---
