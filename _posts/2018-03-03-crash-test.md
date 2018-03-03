@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crash Test
-tags: [ tags ]
+tags: [ art, "en ville", gratuit, "musées et expos", moderne, nature, panacée ]
 show_meta: true
 show_comments: true
 mathjax: true
