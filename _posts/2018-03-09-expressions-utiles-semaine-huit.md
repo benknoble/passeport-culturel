@@ -21,11 +21,17 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
+| *les noces[^1]* | un mariage; utilisé pour les expressions tels que « un voyage de noces » |
+| *la boue* | "mud" |
+| *le saignement de nez* | "nosebleed" |
 | ** | |
 | ** | |
-| ** | |
-| ** | |
-| ** | |
+
+---
+
+__References__
+
+[^1]: *Note*: cet utilisation se tient seulement au pluriel ; au singulier cela signifie plutôt une fête (surtout pour un mariage)
 
 <!--
 vim: spell spelllang=fr
