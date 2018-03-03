@@ -25,6 +25,7 @@ Voilà, cette semaine :
 | *une corvée* | ce qu'on appelle des travaux pénibles |
 | *avoir l'estomac dans les talons* | avoir beaucoup faim |
 | *une couche, une épaisseur* | "layer" |
+| *un éclaire* | "lightning bolt" (notez, sans 'e', ça devient "lightning") |
 
 <!---
 vim: spell spelllang=fr
