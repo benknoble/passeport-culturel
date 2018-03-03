@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Se perdre dans les montagnes, et y découvrir un château
-tags: [ découvrir, montagnes, château, Hérault, marcher ]
+tags: [ découvrir, montagnes, château, Hérault, marcher, nature ]
 show_meta: true
 show_comments: true
 mathjax: true
