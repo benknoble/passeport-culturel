@@ -13,7 +13,8 @@ hide_printmsg: false
 summaryfeed: false
 ---
 
-Description courte
+Venez voir le mélange des matières primaires--l'humain, la technologie, et la
+nature !
 
 * TOC
 {:toc}
