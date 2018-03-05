@@ -25,7 +25,7 @@ Voilà, cette semaine :
 | *la boue* | "mud" |
 | *le saignement de nez* | "nosebleed" |
 | *quelle gachîs* | quelle désordre, gaspillage |
-| ** | |
+| *mettre les bouchées double* | accélérer un action ; à dire quand e.g. vous avez beaucoup de travail après une semaine plus légère |
 
 ---
 
