@@ -23,7 +23,7 @@ Voilà, cette semaine :
 | :--------: | :--------- |
 | *un cerne* | trace autour des yeux fatigués |
 | *prendre son pied* | (argot, typiquement sexuel) "to take pleasure from something" |
-| ** | |
+| *tout est dans le coup de maine* | "it's all in the details" |
 | ** | |
 | ** | |
 
