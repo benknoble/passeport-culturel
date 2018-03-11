@@ -21,8 +21,8 @@ Voilà, cette semaine :
 
 | Expression | Définition |
 | :--------: | :--------- |
-| ** | |
-| ** | |
+| *un cerne* | trace autour des yeux fatigués |
+| *prendre son pied* | (argot, typiquement sexuel) "to take pleasure from something" |
 | ** | |
 | ** | |
 | ** | |
