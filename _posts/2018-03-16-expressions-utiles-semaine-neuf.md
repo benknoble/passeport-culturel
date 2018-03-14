@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Semaine 9ème--5 expressions utiles
+title: Semaine 9ème--6 expressions utiles
 tags: [ "expressions utiles", apprendre ]
 category:
 - featured
@@ -15,7 +15,7 @@ hide_printmsg: false
 summaryfeed: false
 ---
 
-Là-bas, une variété des expressions.
+Oui, vous l'avez bien lu, __6__ expressions cette semaine, quelle chance !
 
 Voilà, cette semaine :
 
@@ -24,8 +24,9 @@ Voilà, cette semaine :
 | *un cerne* | trace autour des yeux fatigués |
 | *prendre son pied* | (argot, typiquement sexuel) "to take pleasure from something" |
 | *tout est dans le coup de maine* | "it's all in the details" |
-| ** | |
-| ** | |
+| *taulard* | (fam.) prisonnier |
+| *avoir un yaourt* | quand qqn essaie de chanter les paroles, mais les mots n'ont aucun sens (typiquement, parce que la chanson est d'une langue étrangère) |
+| *copains comme cochons* | "like peas in a pod" |
 
 <!--
 vim: spell spelllang=fr
