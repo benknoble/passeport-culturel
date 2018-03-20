@@ -24,7 +24,7 @@ Voilà, cette semaine :
 | *magne-toi* | "move on" |
 | *claire et nette* | "crystal clear", mais prononcé comme « clarinette » 🎵 |
 | *une manif* | manifestation |
-| ** | |
+| *s'immiscer* | s’insérer indûment dans les affaires d'autrui |
 | ** | |
 
 <!--
