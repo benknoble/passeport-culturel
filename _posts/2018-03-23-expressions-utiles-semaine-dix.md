@@ -23,7 +23,7 @@ Voilà, cette semaine :
 | :--------: | :--------- |
 | *magne-toi* | "move on" |
 | *claire et nette* | "crystal clear", mais prononcé comme « clarinette » 🎵 |
-| ** | |
+| *une manif* | manifestation |
 | ** | |
 | ** | |
 
