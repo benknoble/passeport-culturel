@@ -25,7 +25,12 @@ Voilà, cette semaine :
 | *claire et nette* | "crystal clear", mais prononcé comme « clarinette » 🎵 |
 | *une manif* | manifestation |
 | *s'immiscer* | s’insérer indûment dans les affaires d'autrui |
-| ** | |
+
+*Expressions d'__argot__*
+
+| *avoir les foies/avoir les flubes* | avoir peur |
+| *avoir le cul verni* | avoir de la chance |
+| *C'est dar* | (verlan de « ard », d'anglais) c'est lourd, déclassé, difficile |
 
 <!--
 vim: spell spelllang=fr
