@@ -23,8 +23,8 @@ Voilà, cette semaine :
 | :--------: | :--------- |
 | *avoir du bol* | avoir de la chance |
 | *à pas de formi* | "at your pace" |
-| ** | |
-| ** | |
+| *une pipelette* | "chatterbox", surtout pour les filles |
+| *un coussin* | "pillow" |
 | ** | |
 
 <!--
