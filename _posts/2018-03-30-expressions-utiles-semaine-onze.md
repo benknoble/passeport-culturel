@@ -25,7 +25,7 @@ Voilà, cette semaine :
 | *à pas de formi* | "at your pace" |
 | *une pipelette* | "chatterbox", surtout pour les filles |
 | *un coussin* | "pillow" |
-| ** | |
+| *un étendoir* | pour étendre le linge |
 
 <!--
 vim: spell spelllang=fr
